@@ -1,0 +1,1 @@
+// Archivo de fondo para futuras mejoras
