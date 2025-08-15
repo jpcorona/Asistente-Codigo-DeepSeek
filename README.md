@@ -1,6 +1,6 @@
 # 🚀 Asistente de código con DeepSeek - Extensión de Chrome  
 
-**Aistente de código deepseek** es una extensión de Chrome que integra la API de **DeepSeek** para ayudar a desarrolladores a generar y mejorar código directamente desde su navegador.  
+**Aistente de código deepseek** es una extensión de Chrome que integra la API de **DeepSeek** para ayudar a desarrolladores a generar y mejorar código directamente desde tu navegador.  
 
 ## 🎯 Características  
 ✅ **Generación de código** en múltiples lenguajes de programación.  
